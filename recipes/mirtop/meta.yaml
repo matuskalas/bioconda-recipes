@@ -50,4 +50,7 @@ about:
 
 extra:
   identifiers:
-    - biotools:mirtop
+    - biotools:mirGFF3 # autogen in bio.tools, should be changed to mirtop later
+    - debian:mirtop
+    - doi:10.7490/f1000research.1115724.1
+    - doi:10.1093/bioinformatics/btz675
