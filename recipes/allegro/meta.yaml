@@ -41,3 +41,6 @@ about:
 extra:
   skip-lints:
     - should_not_be_noarch_source
+  identifiers:
+    - doi:10.1038/ng1005-1015
+    - doi:10.1038/75514
