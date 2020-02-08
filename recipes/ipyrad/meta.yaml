@@ -1,6 +1,6 @@
 {% set name = "ipyrad" %}
-{% set version = "0.9.26" %}
-{% set sha256 = "5e5034cd818eebe0ed2c4b0d2624609e3d83529e7dc8377187d4165232153719" %}
+{% set version = "0.9.33" %}
+{% set sha256 = "d51514b2e26d7fc44135ccc695b390022ee83e9653c00a4fc649058fa8fdfe58" %}
 
 package:
   name: {{name}}
