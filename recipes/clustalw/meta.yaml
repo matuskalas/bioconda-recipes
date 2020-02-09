@@ -29,3 +29,6 @@ about:
 extra:
   skip-lints:
     - should_not_be_noarch_source
+  identifiers:
+    - biotools:clustal2
+    - debian:clustalw
