@@ -32,3 +32,7 @@ extra:
   identifiers:
     - biotools:clustal2
     - debian:clustalw
+    - doi:10.1093/nar/22.22.4673
+    - doi:10.1093/nar/25.24.4876
+    - doi:10.1093/bioinformatics/btm404
+    - doi:10.1016/0378-1119(88)90330-7
